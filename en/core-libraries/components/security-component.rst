@@ -43,7 +43,7 @@ components in your ``$components`` array.
     altering the fields that are submitted in a POST request (e.g.
     disabling, deleting or creating new fields via JavaScript) is
     likely to trigger a black-holing of the request. See the
-    ``$validatePost`` or ``$disabledFields`` configuration parameters.
+    ``$validatePost`` or ``unlockedFields`` configuration parameters.
 
 Configuration
 =============
