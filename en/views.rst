@@ -143,7 +143,7 @@ allows you to define slots or blocks in your views/layouts that will be defined
 elsewhere.  For example blocks are ideal for implementing things such as
 sidebars, or regions to load assets at the bottom/top of the layout.
 Blocks can be defined in two ways.  Either as a capturing block, or by direct
-assignment.  The ``start()``, ``append()`` and ``end()`` methods allow to to
+assignment.  The ``start()``, ``append()`` and ``end()`` methods allow you to
 work with capturing blocks::
 
     <?php
